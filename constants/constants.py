@@ -1,0 +1,12 @@
+LEET_CODE_LOGIN_URL = "https://leetcode.com/accounts/login/"
+USERNAME_HTML_ELEMENT_NAME = "login"
+PASSWORD_HTML_ELEMENT_NAME = "password"
+ACTUAL_PREMIUM_USERNAME = "akshayav17005@it.ssn.edu.in"
+ACTUAL_PREMIUM_PASSWORD = "hello..."
+LEET_CODE_PROBLEM_SET = "https://leetcode.com/problemset/all/"
+SUBMIT_BUTTON_CLASS_NAME = "btn__2FMG"
+COMPANY_SECTION_ID = "all-company-tags"
+ANCHOR_ELEMENT = 'a'
+COMPANY_PREFIX = '/company/'
+HREF_ATTRIBUTE = 'href'
+LEET_CODE_HOME_URL = "https://leetcode.com"
