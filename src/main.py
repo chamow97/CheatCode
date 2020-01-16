@@ -15,7 +15,7 @@ def sign_in_user(driver, url):
     password = driver.find_element_by_name(PASSWORD_HTML_ELEMENT_NAME)
     username.send_keys(ACTUAL_PREMIUM_USERNAME)
     password.send_keys(ACTUAL_PREMIUM_PASSWORD)
-    time.sleep(100)
+    time.sleep(65)
     sign_in_button = driver.find_element_by_class_name(SUBMIT_BUTTON_CLASS_NAME)
     sign_in_button.click()
 
@@ -88,8 +88,10 @@ def open_premium_questions_and_fetch_content(driver):
     for question in questions_list:
         driver.get(LEET_CODE_HOME_URL + question)
         time.sleep(10)
-        print(driver.page_source)
-        break
+        question_description = bs4.BeautifulSoup(driver.page_source).find_all("div", {"class": "description__24sA"})
+        with open("../output/premiumq/" + question.split("/")[2] + ".html", 'w') as premium_file:
+            premium_file.write("<html><body>" + str(question_description[0]) + "</body></html>")
+            premium_file.close()
 
 
 def fetch_premium_questions():
@@ -111,14 +113,14 @@ if __name__ == '__main__':
             company_list = get_company_list(page_source)
             with open('../output/companies.txt', 'w') as f:
                 for item in company_list:
-                    f.write("%s " % item)
+                    f.write("%s," % item)
                 f.close()
         with open('../output/companies.txt', 'r') as f:
             companies = f.readlines()
             f.close()
         company_list = []
         if len(companies) > 0:
-            company_list = companies[0].split(' ')
+            company_list = companies[0].split(',')
         get_company_wise_questions = visit_pages_scrap_question_url(company_list)
 
     if should_fetch_premium_questions:

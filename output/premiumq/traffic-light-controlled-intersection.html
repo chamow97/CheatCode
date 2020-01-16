@@ -1,0 +1,56 @@
+<html><body><div class="description__24sA"><div class="css-101rr4k"><div class="css-v3d350" data-cy="question-title">1279. Traffic Light Controlled Intersection</div><div class="css-10o4wqw"><div class="css-14oi08n" diff="easy">Easy</div><button class="btn__r7r7 css-1rdgofi"><svg class="icon__3Su4" height="1em" viewbox="0 0 24 24" width="1em"><path d="M7 19v-8H4v8h3zM7 9c0-.55.22-1.05.58-1.41L14.17 1l1.06 1.05c.27.27.44.65.44 1.06l-.03.32L14.69 8H21c1.1 0 2 .9 2 2v2c0 .26-.05.5-.14.73l-3.02 7.05C19.54 20.5 18.83 21 18 21H4a2 2 0 0 1-2-2v-8a2 2 0 0 1 2-2h3zm2 0v10h9l3-7v-2h-9l1.34-5.34L9 9z" fill-rule="evenodd"></path></svg><span>12</span></button><button class="btn__r7r7 css-1rdgofi"><svg class="icon__3Su4" height="1em" viewbox="0 0 24 24" width="1em"><path d="M17 3v12c0 .55-.22 1.05-.58 1.41L9.83 23l-1.06-1.05c-.27-.27-.44-.65-.44-1.06l.03-.32.95-4.57H3c-1.1 0-2-.9-2-2v-2c0-.26.05-.5.14-.73l3.02-7.05C4.46 3.5 5.17 3 6 3h11zm-2 12V5H6l-3 7v2h9l-1.34 5.34L15 15zm2-2h3V5h-3V3h3a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-3v-2z" fill-rule="evenodd"></path></svg><span>34</span></button><button class="btn__r7r7 css-1rdgofi"><svg class="icon__3Su4" height="1em" viewbox="0 0 24 24" width="1em"><path d="M16.5 3c-1.74 0-3.41.81-4.5 2.09C10.91 3.81 9.24 3 7.5 3 4.42 3 2 5.42 2 8.5c0 3.78 3.4 6.86 8.55 11.54L12 21.35l1.45-1.32C18.6 15.36 22 12.28 22 8.5 22 5.42 19.58 3 16.5 3zm-4.4 15.55l-.1.1-.1-.1C7.14 14.24 4 11.39 4 8.5 4 6.5 5.5 5 7.5 5c1.54 0 3.04.99 3.57 2.36h1.87C13.46 5.99 14.96 5 16.5 5c2 0 3.5 1.5 3.5 3.5 0 2.89-3.14 5.74-7.9 10.05z" fill-rule="evenodd"></path></svg><span>Add to List</span></button><button class="btn__r7r7 css-1rdgofi"><svg class="icon__3Su4" height="1em" viewbox="0 0 24 24" width="1em"><path d="M17 5V2l5 5h-9a2 2 0 0 0-2 2v8H9V9a4 4 0 0 1 4-4h4zm3 14V9h2v10a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3v2H4v14h16z" fill-rule="evenodd"></path></svg><span>Share</span></button></div></div><div class="content__u3I1 question-content__JfgR"><div><p>There is an intersection of two roads. First road is road A where cars travel from North to South in direction 1 and from South to North in direction 2. Second road is road B where cars travel from West to East in direction 3 and from East to West in direction 4.</p>
+<p><img alt="" src="https://assets.leetcode.com/uploads/2019/11/11/exp.png" style="width: 600px; height: 417px;"/></p>
+<p>There is a traffic light located on each road before the intersection. A traffic light can either be green or red.</p>
+<ol>
+<li><strong>Green</strong> means cars can cross the intersection in both directions of the road.</li>
+<li><strong>Red</strong> means cars in both directions cannot cross the intersection and must wait until the light turns green.</li>
+</ol>
+<p>The traffic lights cannot be green on both roads at the same time. That means when the light is green on road A, it is red on road B and when the light is green on road B, it is red on road A.</p>
+<p>Initially, the traffic light is <strong>green</strong> on road A and <strong>red</strong> on road B. When the light is green on one road, all cars can cross the intersection in both directions until the light becomes green on the other road. No two cars traveling on different roads should cross at the same time.</p>
+<p>Design a deadlock-free traffic light controlled system at this intersection.</p>
+<p>Implement the function <code>void carArrived(carId, roadId, direction, turnGreen, crossCar)</code> where:</p>
+<ul>
+<li><code>carId</code> is the id of the car that arrived.</li>
+<li><code>roadId</code> is the id of the road that the car travels on.</li>
+<li><code>direction</code> is the direction of the car.</li>
+<li><code>turnGreen</code> is a function you can call to turn the traffic light to green on the current road.</li>
+<li><code>crossCar</code> is a function you can call to let the current car cross the intersection.</li>
+</ul>
+<p>Your answer is considered correct if it avoids cars deadlock in the intersection. Turning the light green on a road when it was already green is considered a wrong answer.</p>
+<p> </p>
+<p><strong>Example 1:</strong></p>
+<pre><strong>Input:</strong> cars = [1,3,5,2,4], directions = [2,1,2,4,3], arrivalTimes = [10,20,30,40,50]
+<strong>Output:</strong> [
+"Car 1 Has Passed Road A In Direction 2",    // Traffic light on road A is green, car 1 can cross the intersection.
+"Car 3 Has Passed Road A In Direction 1",    // Car 3 crosses the intersection as the light is still green.
+"Car 5 Has Passed Road A In Direction 2",    // Car 5 crosses the intersection as the light is still green.
+"Traffic Light On Road B Is Green",          // Car 2 requests green light for road B.
+"Car 2 Has Passed Road B In Direction 4",    // Car 2 crosses as the light is green on road B now.
+"Car 4 Has Passed Road B In Direction 3"     // Car 4 crosses the intersection as the light is still green.
+]
+</pre>
+<p><strong>Example 2:</strong></p>
+<pre><strong>Input:</strong> cars = [1,2,3,4,5], directions = [2,4,3,3,1], arrivalTimes = [10,20,30,40,40]
+<strong>Output:</strong> [
+"Car 1 Has Passed Road A In Direction 2",    // Traffic light on road A is green, car 1 can cross the intersection.
+"Traffic Light On Road B Is Green",          // Car 2 requests green light for road B.
+"Car 2 Has Passed Road B In Direction 4",    // Car 2 crosses as the light is green on road B now.
+"Car 3 Has Passed Road B In Direction 3",    // Car 3 crosses as the light is green on road B now.
+"Traffic Light On Road A Is Green",          // Car 5 requests green light for road A.
+"Car 5 Has Passed Road A In Direction 1",    // Car 5 crosses as the light is green on road A now.
+"Traffic Light On Road B Is Green",          // Car 4 requests green light for road B. Car 4 blocked until car 5 crosses and then traffic light is green on road B.
+"Car 4 Has Passed Road B In Direction 3"     // Car 4 crosses as the light is green on road B now.
+]
+<strong>Explanation:</strong> This is a dead-lock free scenario. Note that the scenario when car 4 crosses before turning light into green on road A and allowing car 5 to pass is also <strong>correct</strong> and <strong>Accepted</strong> scenario.
+</pre>
+<p> </p>
+<p><strong>Constraints:</strong></p>
+<ul>
+<li><code>1 &lt;= cars.length &lt;= 20</code></li>
+<li><code>cars.length = directions.length</code></li>
+<li><code>cars.length = arrivalTimes.length</code></li>
+<li>All values of <code>cars</code> are unique</li>
+<li><code>1 &lt;= directions[i] &lt;= 4</code></li>
+<li><code>arrivalTimes</code> is non-decreasing</li>
+</ul>
+</div></div><div style="position: relative;"><div class="css-12aggky"><div class="css-oqu510"><div class="css-y3si18">Accepted</div><div class="css-jkjiwi">787</div></div><div class="css-oqu510"><div class="css-y3si18">Submissions</div><div class="css-jkjiwi">968</div></div></div><div class="erd_scroll_detection_container erd_scroll_detection_container_animation_active" style="visibility: hidden; display: inline; width: 0px; height: 0px; z-index: -1; overflow: hidden; margin: 0px; padding: 0px;"><div class="erd_scroll_detection_container" dir="ltr" style="position: absolute; flex: 0 0 auto; overflow: hidden; z-index: -1; visibility: hidden; width: 100%; height: 100%; left: 0px; top: 0px;"><div class="erd_scroll_detection_container" style="position: absolute; flex: 0 0 auto; overflow: hidden; z-index: -1; visibility: hidden; inset: -1px 0px 0px -1px;"><div style="position: absolute; flex: 0 0 auto; overflow: scroll; z-index: -1; visibility: hidden; width: 100%; height: 100%;"><div style="position: absolute; left: 0px; top: 0px; width: 490px; height: 52px;"></div></div><div style="position: absolute; flex: 0 0 auto; overflow: scroll; z-index: -1; visibility: hidden; width: 100%; height: 100%;"><div style="position: absolute; width: 200%; height: 200%;"></div></div></div></div></div></div><div class="header__28Cb"><div class="title__3BS7" data-size="md">Seen this question in a real interview before?</div><div class="btn-wrapper__19Tg"><button class="btn__1eiM btn-xs__2rgD btn-info__3x1M action-btn__DKeo" data-no-border="false"><div class="btn-content-container__214G"><span class="btn-content__lOBM">Yes</span></div></button></div><div class="btn-wrapper__19Tg"><button class="btn__1eiM btn-xs__2rgD btn-info__3x1M action-btn__DKeo" data-no-border="false"><div class="btn-content-container__214G"><span class="btn-content__lOBM">No</span></div></button></div></div><div class="container__MdHF"><div class="label__kWQk">Contributor</div><div class="contributors__1MZK"><div><a id="0" target="_blank"><img alt="LeetCode" class="avatar__OVN5" src="/static/images/LeetCode_avatar.png"/></a></div></div></div></div></body></html>
