@@ -1,0 +1,7 @@
+289:Game of Life
+609:Find Duplicate File in System
+146:LRU Cache
+379:Design Phone Directory
+642:Design Search Autocomplete System
+1178:Number of Valid Words for Each Puzzle
+1242:Web Crawler Multithreaded

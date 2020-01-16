@@ -1,0 +1,13 @@
+146:LRU Cache
+121:Best Time to Buy and Sell Stock
+647:Palindromic Substrings
+42:Trapping Rain Water
+240:Search a 2D Matrix II
+32:Longest Valid Parentheses
+221:Maximal Square
+622:Design Circular Queue
+1048:Longest String Chain
+28:Implement strStr()
+332:Reconstruct Itinerary
+225:Implement Stack using Queues
+212:Word Search II

@@ -1,0 +1,11 @@
+5:Longest Palindromic Substring
+69:Sqrt(x)
+125:Valid Palindrome
+412:Fizz Buzz
+443:String Compression
+85:Maximal Rectangle
+811:Subdomain Visit Count
+1189:Maximum Number of Balloons
+840:Magic Squares In Grid
+1204:Last Person to Fit in the Elevator
+56:Merge Intervals

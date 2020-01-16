@@ -1,0 +1,2 @@
+593:Valid Square
+203:Remove Linked List Elements

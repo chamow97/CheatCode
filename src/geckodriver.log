@@ -1,561 +1,185 @@
-1578916617484	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofiledsj7Mk"
-1578916618909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578916618909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578916618909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578916618909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578916621660	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
+1579099073685	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofilewccAWz"
+1579099075303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579099075304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579099075304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579099075304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578916622648	Marionette	INFO	Listening on port 63595
-1578916622799	Marionette	WARN	TLS certificate errors will be ignored for this session
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://leetcode.com"
-console.warn: nsLoginManager: "searchLogins: `formSubmitURL` or `httpRealm` is recommended"
-1578917434375	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofileMcjrjN"
-1578917435740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578917435740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578917435741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578917435741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578917437694	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
+1579099078164	Marionette	INFO	Listening on port 53460
+1579099078199	Marionette	WARN	TLS certificate errors will be ignored for this session
+1579099130030	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofile51PLFp"
+1579099131749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579099131749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579099131749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579099131749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578917438935	Marionette	INFO	Listening on port 51443
-1578917438979	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578917452950	Marionette	INFO	Stopped listening on port 51443
-console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
-1578917498242	Marionette	INFO	Stopped listening on port 63595
-1578917501467	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofilefK27bH"
-1578917502399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578917502403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578917502404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578917502404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578917504222	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
+1579099135290	Marionette	INFO	Listening on port 53849
+1579099135419	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 55894, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+1579099137074	Marionette	INFO	Stopped listening on port 53460
+1579099181041	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofile7ZdAkC"
+1579099182824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579099182831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579099182832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579099182832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1579099184584	Marionette	INFO	Stopped listening on port 53849
 JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578917504976	Marionette	INFO	Listening on port 51877
-1578917505002	Marionette	WARN	TLS certificate errors will be ignored for this session
-console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
-[Parent 26868, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
-1578917579761	Marionette	INFO	Stopped listening on port 51877
-1578917582221	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofileo8wdSl"
-1578917583300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578917583301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578917583301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578917583301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578917585227	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
+1579099185683	Marionette	INFO	Listening on port 54203
+1579099185734	Marionette	WARN	TLS certificate errors will be ignored for this session
+1579099664476	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofileP888Ht"
+1579099666225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579099666225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579099666226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579099666226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578917586145	Marionette	INFO	Listening on port 52324
-1578917586276	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578917843954	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofileDEzByt"
-1578917844819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578917844819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578917844819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578917844820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578917846464	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
+1579099668874	Marionette	INFO	Stopped listening on port 54203
+1579099668997	Marionette	INFO	Listening on port 56393
+1579099669063	Marionette	WARN	TLS certificate errors will be ignored for this session
+1579100075132	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofileZ5olQz"
+1579100076772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579100076774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579100076774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579100076775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578917847602	Marionette	INFO	Listening on port 53621
-1578917847688	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578917896021	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofileEkZtNA"
-1578917897162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578917897162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578917897162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578917897162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578917898950	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
+1579100079416	Marionette	INFO	Stopped listening on port 56393
+1579100079746	Marionette	INFO	Listening on port 58254
+1579100079837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1579100132252	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofileskDlkV"
+1579100133753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579100133754	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579100133755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579100133755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578917900280	Marionette	INFO	Listening on port 53952
-1578917900367	Marionette	WARN	TLS certificate errors will be ignored for this session
-console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
-1578917904923	Marionette	INFO	Stopped listening on port 53621
-1578917906157	Marionette	INFO	Stopped listening on port 52324
-1578917924057	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofileT34EsQ"
-1578917925124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578917925127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578917925127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578917925127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578917927165	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
+1579100136088	Marionette	INFO	Stopped listening on port 58254
+1579100136789	Marionette	INFO	Listening on port 58614
+1579100136844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1579100188633	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofileZ0r83v"
+1579100190077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579100190086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579100190088	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579100190088	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578917928653	Marionette	INFO	Listening on port 54163
-1578917928681	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578917932693	Marionette	INFO	Stopped listening on port 53952
-1578918037673	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofileS7T0PH"
-1578918038540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578918038542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578918038542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578918038542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578918040554	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
+1579100192663	Marionette	INFO	Listening on port 58975
+1579100192783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1579100193729	Marionette	INFO	Stopped listening on port 58614
+1579100436192	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofile5oIWjT"
+1579100437409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579100437413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579100437414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579100437414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578918041353	Marionette	INFO	Listening on port 54795
-1578918041456	Marionette	WARN	TLS certificate errors will be ignored for this session
-[Parent 27449, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
-1578918072035	Marionette	INFO	Stopped listening on port 54163
-1578918076917	Marionette	INFO	Stopped listening on port 54795
-1578918077502	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofileHgIVBn"
-1578918078357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578918078358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578918078358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578918078358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578918080211	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
+1579100439819	Marionette	INFO	Listening on port 60163
+1579100439867	Marionette	WARN	TLS certificate errors will be ignored for this session
+1579100449372	Marionette	INFO	Stopped listening on port 58975
+1579100521458	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofileaET8aH"
+1579100522937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579100522940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579100522940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579100522940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578918080799	Marionette	INFO	Listening on port 55084
-1578918080857	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578918430510	Marionette	INFO	Stopped listening on port 55084
-1578918466286	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofilev9kr23"
-1578918467194	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578918467195	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578918467195	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578918467195	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578918469255	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
+1579100525333	Marionette	INFO	Listening on port 60630
+1579100525622	Marionette	WARN	TLS certificate errors will be ignored for this session
+1579100525648	Marionette	INFO	Stopped listening on port 60163
+1579100541616	Marionette	INFO	Stopped listening on port 60630
+1579100620166	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofilerX49uq"
+1579100621258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579100621282	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579100621282	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579100621283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578918470157	Marionette	INFO	Listening on port 57025
-1578918470296	Marionette	WARN	TLS certificate errors will be ignored for this session
-Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
-Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
-exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
-onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
-Line: 334, column: 0
-console.error: "Handler function threw an exception: [Exception... \"Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334\"  data: no]\nStack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22\nonStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10\nLine: 334, column: 0"
-Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
-Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
-exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
-onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
-Line: 334, column: 0
-console.error: "Handler function threw an exception: [Exception... \"Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334\"  data: no]\nStack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22\nonStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10\nLine: 334, column: 0"
-Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
-Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
-exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
-onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
-Line: 334, column: 0
-console.error: "Handler function threw an exception: [Exception... \"Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334\"  data: no]\nStack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22\nonStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10\nLine: 334, column: 0"
-Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
-Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
-exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
-onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
-Line: 334, column: 0
-console.error: "Handler function threw an exception: [Exception... \"Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334\"  data: no]\nStack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22\nonStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10\nLine: 334, column: 0"
-Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
-Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
-exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
-onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
-Line: 334, column: 0
-console.error: "Handler function threw an exception: [Exception... \"Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334\"  data: no]\nStack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22\nonStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10\nLine: 334, column: 0"
-Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
-Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
-exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
-onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
-Line: 334, column: 0
-console.error: "Handler function threw an exception: [Exception... \"Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334\"  data: no]\nStack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22\nonStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10\nLine: 334, column: 0"
-Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
-Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
-exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
-onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
-Line: 334, column: 0
-console.error: "Handler function threw an exception: [Exception... \"Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334\"  data: no]\nStack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22\nonStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10\nLine: 334, column: 0"
-1578919057954	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofile3YA7Mc"
-1578919059053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578919059054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578919059054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578919059054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
-1578919060014	Marionette	INFO	Stopped listening on port 57025
-1578919061536	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
+1579100623667	Marionette	INFO	Listening on port 61158
+1579100623744	Marionette	WARN	TLS certificate errors will be ignored for this session
+1579100638503	Marionette	INFO	Stopped listening on port 61158
+1579101277166	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofileQ81DEU"
+1579101278331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579101278331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579101278339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579101278354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578919062610	Marionette	INFO	Listening on port 59969
-1578919062684	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578919073941	Marionette	INFO	Stopped listening on port 59969
-1578919091252	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofile6Y2u0g"
-1578919092282	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578919092282	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578919092283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578919092283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578919094179	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
-JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578919094796	Marionette	INFO	Listening on port 60229
-1578919094917	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578919193524	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofileRW69Kn"
-1578919194617	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578919194617	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578919194617	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578919194618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1579101280782	Marionette	INFO	Listening on port 64093
+1579101280848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1579101280931	Marionette	INFO	Stopped listening on port 64093
+1579101281049	addons.repository	ERROR	Error in addon metadata check: GET https://services.addons.mozilla.org/api/v3/addons/search/?guid=amazon_enterprise_access%40amazon&lang=en-US failed
+1579101281086	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+makeAddonVisible@XPIDatabase.jsm:2286:10
+addToDatabase@XPIDatabase.jsm:2213:12
+install@XPIInstall.jsm:1793:36
+1579101281087	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+addToDatabase@XPIDatabase.jsm:2216:10
+install@XPIInstall.jsm:1793:36
+1579101281089	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+syncWithDB@XPIProvider.jsm:671:25
+addAddon@XPIProvider.jsm:807:14
+addAddon@XPIProvider.jsm:1603:21
+install@XPIInstall.jsm:1794:21
+1579101281089	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1483:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1483:17
+install@XPIInstall.jsm:1796:23
 
-###!!! [Child][MessageChannel] Error: (msgtype=0x4F0015,name=PHal::Msg_DisableScreenConfigurationNotifications) Channel closing: too late to send/recv, messages will be lost
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
 
-1578919196502	Marionette	INFO	Stopped listening on port 60229
-1578919197013	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/MessageChannel.jsm, line 870: NS_ERROR_UNEXPECTED
+console.error: 
+  Error: Attempt to postMessage on disconnected port: 
+console.error: 
+  Error: Attempt to postMessage on disconnected port: 
+1579101337007	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofilexeacf0"
+1579101338341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579101338342	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579101338343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579101338343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578919197890	Marionette	INFO	Listening on port 60800
-1578919197955	Marionette	WARN	TLS certificate errors will be ignored for this session
-Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
-Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
-exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
-onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
-Line: 334, column: 0
-console.error: "Handler function threw an exception: [Exception... \"Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334\"  data: no]\nStack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22\nonStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10\nLine: 334, column: 0"
-Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
-Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
-exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
-onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
-Line: 334, column: 0
-console.error: "Handler function threw an exception: [Exception... \"Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334\"  data: no]\nStack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22\nonStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10\nLine: 334, column: 0"
-Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
-Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
-exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
-onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
-Line: 334, column: 0
-console.error: "Handler function threw an exception: [Exception... \"Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334\"  data: no]\nStack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22\nonStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10\nLine: 334, column: 0"
-Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
-Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
-exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
-onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
-Line: 334, column: 0
-console.error: "Handler function threw an exception: [Exception... \"Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334\"  data: no]\nStack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22\nonStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10\nLine: 334, column: 0"
-Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
-Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
-exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
-onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
-Line: 334, column: 0
-console.error: "Handler function threw an exception: [Exception... \"Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334\"  data: no]\nStack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22\nonStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10\nLine: 334, column: 0"
-Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
-Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
-exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
-onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
-Line: 334, column: 0
-console.error: "Handler function threw an exception: [Exception... \"Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334\"  data: no]\nStack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22\nonStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10\nLine: 334, column: 0"
-1578919332042	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofileXwU7rR"
-1578919333047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578919333048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578919333049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578919333049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578919334831	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
+1579101340847	Marionette	INFO	Listening on port 64408
+1579101340882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1579101454922	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofileXGORow"
+1579101456149	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579101456150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579101456151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579101456151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578919335774	Marionette	INFO	Listening on port 61537
-1578919335863	Marionette	WARN	TLS certificate errors will be ignored for this session
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
-
+1579101458606	Marionette	INFO	Listening on port 65002
+1579101458676	Marionette	WARN	TLS certificate errors will be ignored for this session
+1579101460428	Marionette	INFO	Stopped listening on port 64408
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 63806, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1579101498503	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofile2S0z4J"
+1579101499654	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579101499659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579101499659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579101499659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1579101501978	Marionette	INFO	Listening on port 65309
+1579101502070	Marionette	WARN	TLS certificate errors will be ignored for this session
 console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
-1578919344502	Marionette	INFO	Stopped listening on port 60800
-1578919345847	Marionette	INFO	Stopped listening on port 61537
-1578919352814	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofilevnkcEV"
-1578919353768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578919353768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578919353768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578919353768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578919355926	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
-JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578919356997	Marionette	INFO	Listening on port 61721
-1578919357101	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578919504685	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofileIC0UFH"
-1578919505768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578919505769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578919505769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578919505769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578919507239	Marionette	INFO	Stopped listening on port 61721
-1578919508046	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
-JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578919508958	Marionette	INFO	Listening on port 62487
-1578919508996	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578919560795	Marionette	INFO	Stopped listening on port 62487
-1578919561733	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofilehcGVEl"
-1578919562713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578919562713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578919562713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578919562713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578919564301	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
-JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578919565589	Marionette	INFO	Listening on port 62851
-1578919565693	Marionette	WARN	TLS certificate errors will be ignored for this session
-Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
-Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
-exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
-onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
-Line: 334, column: 0
-console.error: "Handler function threw an exception: [Exception... \"Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334\"  data: no]\nStack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22\nonStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10\nLine: 334, column: 0"
-Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
-Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
-exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
-onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
-Line: 334, column: 0
-console.error: "Handler function threw an exception: [Exception... \"Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334\"  data: no]\nStack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22\nonStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10\nLine: 334, column: 0"
-Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
-Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
-exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
-onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
-Line: 334, column: 0
-console.error: "Handler function threw an exception: [Exception... \"Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334\"  data: no]\nStack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22\nonStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10\nLine: 334, column: 0"
-Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
-Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
-exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
-onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
-Line: 334, column: 0
-console.error: "Handler function threw an exception: [Exception... \"Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334\"  data: no]\nStack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22\nonStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10\nLine: 334, column: 0"
-Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
-Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
-exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
-onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
-Line: 334, column: 0
-console.error: "Handler function threw an exception: [Exception... \"Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334\"  data: no]\nStack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22\nonStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10\nLine: 334, column: 0"
-Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334"  data: no]
-Stack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26
-exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22
-onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10
-Line: 334, column: 0
-console.error: "Handler function threw an exception: [Exception... \"Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICacheInfoChannel.isRacing]\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://devtools/server/actors/network-monitor/network-response-listener.js :: NetworkResponseListener.prototype._getSecurityInfo< :: line 334\"  data: no]\nStack: NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:334:26\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:111:22\nonStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:226:10\nLine: 334, column: 0"
-1578920186168	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofileJNUXnW"
-1578920187112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578920187112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578920187112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578920187113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578920189100	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
-JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578920190339	Marionette	INFO	Listening on port 49339
-1578920190416	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578920337377	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofile4amICA"
-1578920338567	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578920338567	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578920338567	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578920338568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578920340742	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
-JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578920341732	Marionette	INFO	Listening on port 50109
-1578920341939	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578920360470	Marionette	INFO	Stopped listening on port 50109
-[Child 35082, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
-1578920372478	Marionette	INFO	Stopped listening on port 49339
-console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
-1578920374961	Marionette	INFO	Stopped listening on port 62851
-1578920897334	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofiledw35uR"
-1578920898630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578920898631	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578920898631	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578920898631	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578920900769	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
-JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578920902139	Marionette	INFO	Listening on port 52892
-1578920902220	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578920920481	Marionette	INFO	Stopped listening on port 52892
-1578920965601	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofile5ko2rX"
-1578920966795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578920966795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578920966795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578920966795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578920969210	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
-JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578920970520	Marionette	INFO	Listening on port 53315
-1578920970603	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578920989714	Marionette	INFO	Stopped listening on port 53315
-1578921101200	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofileRmrPlx"
-1578921102209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578921102211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578921102211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578921102211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578921103894	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
-JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578921104840	Marionette	INFO	Listening on port 54031
-1578921104876	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578921122997	Marionette	INFO	Stopped listening on port 54031
-1578921447453	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofilexCZUpw"
-1578921448621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578921448626	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578921448626	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578921448627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578921450617	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
-JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578921451700	Marionette	INFO	Listening on port 55727
-1578921451832	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578921467234	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-bail@chrome://marionette/content/sync.js:237:64
-1578921469748	Marionette	INFO	Stopped listening on port 55727
-1578921489143	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofilerPKASG"
-1578921489985	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578921489986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578921489986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578921489986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578921491752	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
-JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578921492691	Marionette	INFO	Listening on port 56050
-1578921492707	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578921503532	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-bail@chrome://marionette/content/sync.js:237:64
 IPDL protocol error: Handler returned error code!
 
 ###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
 
-IPDL protocol error: Handler returned error code!
-
-###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
-
-1578921506510	Marionette	INFO	Stopped listening on port 56050
-1578921636274	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofileK8OhCy"
-1578921637142	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578921637144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578921637144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578921637144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578921638766	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
+1579101685827	Marionette	INFO	Stopped listening on port 65309
+1579101689661	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofileOxWuqk"
+1579101690940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579101690941	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579101690942	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579101690942	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578921639620	Marionette	INFO	Listening on port 56788
-1578921639740	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578921650310	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-bail@chrome://marionette/content/sync.js:237:64
-IPDL protocol error: Handler returned error code!
-
-###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
-
-IPDL protocol error: Handler returned error code!
-
-###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
-
-1578921652830	Marionette	INFO	Stopped listening on port 56788
-1578921669523	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofile5GKj6v"
-1578921670424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578921670424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578921670425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578921670426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578921672172	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
+1579101693204	Marionette	INFO	Listening on port 49885
+1579101693282	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1579101740207	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofiled81CI6"
+1579101741433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579101741433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579101741433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579101741433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578921673490	Marionette	INFO	Listening on port 57023
-1578921673588	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578921687482	Marionette	INFO	Stopped listening on port 57023
-1578921781885	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofilek192p3"
-1578921782838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578921782838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578921782838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578921782838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578921785093	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
-JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578921785929	Marionette	INFO	Listening on port 57624
-1578921786000	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578921797451	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-bail@chrome://marionette/content/sync.js:237:64
-1578921800677	Marionette	INFO	Stopped listening on port 57624
-1578921900931	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofile0IuoSy"
-1578921902001	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578921902009	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578921902019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578921902019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578921903791	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
-JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578921904580	Marionette	INFO	Listening on port 58272
-1578921904697	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578921916986	Marionette	INFO	Stopped listening on port 58272
-1578922213799	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofileNQTDle"
-1578922215542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578922215543	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578922215545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578922215546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578922217278	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
-JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578922218015	Marionette	INFO	Listening on port 59774
-1578922218119	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578922231029	Marionette	INFO	Stopped listening on port 59774
-1578922668189	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofilev7XVcf"
-1578922669377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578922669377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578922669377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578922669377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578922671602	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
-JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578922672782	Marionette	INFO	Listening on port 61909
-1578922672841	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578922686205	Marionette	INFO	Stopped listening on port 61909
-1578922691281	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofilehSEJDi"
-1578922692239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578922692239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578922692240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578922692240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578922694450	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
-JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578922695334	Marionette	INFO	Listening on port 62112
-1578922695429	Marionette	WARN	TLS certificate errors will be ignored for this session
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
-
-1578922724897	Marionette	INFO	Stopped listening on port 62112
-1578922863875	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofileg7aRYC"
-1578922864895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578922864896	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578922864896	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578922864896	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578922866247	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
-JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578922868010	Marionette	INFO	Listening on port 62994
-1578922868051	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578922882949	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofile5qCpWV"
-1578922884095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578922884095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578922884095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578922884095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578922885894	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
-JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578922886760	Marionette	INFO	Listening on port 63191
-1578922886835	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578923047059	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofilePo2XB0"
-1578923048496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578923048496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578923048496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578923048497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578923051435	Marionette	INFO	Stopped listening on port 62994
-1578923051483	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
-JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578923052490	Marionette	INFO	Listening on port 64050
-1578923052539	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578923053949	Marionette	INFO	Stopped listening on port 63191
-IPDL protocol error: Handler returned error code!
-
-###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
-
-1578923068124	Marionette	INFO	Stopped listening on port 64050
-1578923073105	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofile77tgkS"
-1578923074154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578923074154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578923074154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578923074154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578923075798	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
-JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578923076524	Marionette	INFO	Listening on port 64277
-1578923076635	Marionette	WARN	TLS certificate errors will be ignored for this session
-Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
-GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1134:3
-
-1578923132909	Marionette	INFO	Stopped listening on port 64277
-1578924332063	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofilegPBa7h"
-1578924333528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578924333528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578924333528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578924333528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578924334967	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
-JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578924336148	Marionette	INFO	Listening on port 52349
-1578924336266	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578924349750	Marionette	INFO	Stopped listening on port 52349
-1578924354778	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofileON9PN6"
-1578924355714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578924355714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578924355715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578924355715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578924357309	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
-JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578924357918	Marionette	INFO	Listening on port 52541
-1578924357961	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578924370410	Marionette	INFO	Stopped listening on port 52541
-[Parent 48925, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
-1578924410287	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofile2iodNu"
-1578924411480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578924411480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578924411480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578924411480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578924413112	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
-JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578924413726	Marionette	INFO	Listening on port 52892
-1578924413740	Marionette	WARN	TLS certificate errors will be ignored for this session
-IPDL protocol error: Handler returned error code!
-
-###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
-
-1578924431325	Marionette	INFO	Stopped listening on port 52892
-1578924437514	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8g/xk_v97nd0_jftdh7kycbc7vn1zp9bd/T/rust_mozprofilei2le1Y"
-1578924438449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
-1578924438450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
-1578924438450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
-1578924438450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
-1578924440006	addons.xpi	WARN	Failed to parse recommendation: TypeError: NetworkError when attempting to fetch resource. No traceback available
-JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
-1578924440551	Marionette	INFO	Listening on port 53093
-1578924440636	Marionette	WARN	TLS certificate errors will be ignored for this session
-1578924458032	Marionette	INFO	Stopped listening on port 53093
-[Parent 48958, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+1579101743870	Marionette	INFO	Listening on port 50214
+1579101743930	Marionette	WARN	TLS certificate errors will be ignored for this session
+1579101877875	Marionette	INFO	Stopped listening on port 50214

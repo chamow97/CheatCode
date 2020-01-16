@@ -1,0 +1,14 @@
+20:Valid Parentheses
+33:Search in Rotated Sorted Array
+53:Maximum Subarray
+1:Two Sum
+121:Best Time to Buy and Sell Stock
+443:String Compression
+200:Number of Islands
+198:House Robber
+146:LRU Cache
+973:K Closest Points to Origin
+297:Serialize and Deserialize Binary Tree
+134:Gas Station
+724:Find Pivot Index
+1283:Find the Smallest Divisor Given a Threshold

@@ -1,0 +1,8 @@
+42:Trapping Rain Water
+128:Longest Consecutive Sequence
+23:Merge k Sorted Lists
+155:Min Stack
+695:Max Area of Island
+49:Group Anagrams
+239:Sliding Window Maximum
+41:First Missing Positive

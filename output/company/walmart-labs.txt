@@ -1,0 +1,18 @@
+322:Coin Change
+283:Move Zeroes
+1:Two Sum
+33:Search in Rotated Sorted Array
+206:Reverse Linked List
+22:Generate Parentheses
+39:Combination Sum
+498:Diagonal Traverse
+20:Valid Parentheses
+42:Trapping Rain Water
+141:Linked List Cycle
+176:Second Highest Salary
+200:Number of Islands
+23:Merge k Sorted Lists
+378:Kth Smallest Element in a Sorted Matrix
+695:Max Area of Island
+53:Maximum Subarray
+518:Coin Change 2

@@ -1,0 +1,10 @@
+387:First Unique Character in a String
+236:Lowest Common Ancestor of a Binary Tree
+146:LRU Cache
+20:Valid Parentheses
+127:Word Ladder
+437:Path Sum III
+53:Maximum Subarray
+443:String Compression
+3:Longest Substring Without Repeating Characters
+283:Move Zeroes

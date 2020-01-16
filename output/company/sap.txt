@@ -1,0 +1,5 @@
+8:String to Integer (atoi)
+3:Longest Substring Without Repeating Characters
+5:Longest Palindromic Substring
+121:Best Time to Buy and Sell Stock
+1048:Longest String Chain

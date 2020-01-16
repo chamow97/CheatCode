@@ -10,3 +10,4 @@ ANCHOR_ELEMENT = 'a'
 COMPANY_PREFIX = '/company/'
 HREF_ATTRIBUTE = 'href'
 LEET_CODE_HOME_URL = "https://leetcode.com"
+SUBSCRIBE = '/subscribe/'

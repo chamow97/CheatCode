@@ -1,0 +1,6 @@
+53:Maximum Subarray
+169:Majority Element
+1:Two Sum
+7:Reverse Integer
+33:Search in Rotated Sorted Array
+46:Permutations

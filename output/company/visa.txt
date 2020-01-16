@@ -1,0 +1,6 @@
+20:Valid Parentheses
+15:3Sum
+42:Trapping Rain Water
+121:Best Time to Buy and Sell Stock
+362:Design Hit Counter
+54:Spiral Matrix

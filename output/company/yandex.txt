@@ -1,0 +1,16 @@
+146:LRU Cache
+1:Two Sum
+206:Reverse Linked List
+125:Valid Palindrome
+20:Valid Parentheses
+49:Group Anagrams
+22:Generate Parentheses
+98:Validate Binary Search Tree
+2:Add Two Numbers
+21:Merge Two Sorted Lists
+42:Trapping Rain Water
+23:Merge k Sorted Lists
+59:Spiral Matrix II
+283:Move Zeroes
+71:Simplify Path
+350:Intersection of Two Arrays II

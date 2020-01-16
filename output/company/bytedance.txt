@@ -1,0 +1,17 @@
+31:Next Permutation
+2:Add Two Numbers
+1:Two Sum
+25:Reverse Nodes in k-Group
+33:Search in Rotated Sorted Array
+41:First Missing Positive
+42:Trapping Rain Water
+146:LRU Cache
+329:Longest Increasing Path in a Matrix
+206:Reverse Linked List
+236:Lowest Common Ancestor of a Binary Tree
+23:Merge k Sorted Lists
+440:K-th Smallest in Lexicographical Order
+199:Binary Tree Right Side View
+1057:Campus Bikes
+314:Binary Tree Vertical Order Traversal
+1202:Smallest String With Swaps

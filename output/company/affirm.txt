@@ -1,0 +1,5 @@
+42:Trapping Rain Water
+322:Coin Change
+49:Group Anagrams
+380:Insert Delete GetRandom O(1)
+381:Insert Delete GetRandom O(1) - Duplicates allowed

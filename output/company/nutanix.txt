@@ -1,0 +1,11 @@
+146:LRU Cache
+22:Generate Parentheses
+33:Search in Rotated Sorted Array
+45:Jump Game II
+991:Broken Calculator
+703:Kth Largest Element in a Stream
+1052:Grumpy Bookstore Owner
+403:Frog Jump
+17:Letter Combinations of a Phone Number
+253:Meeting Rooms II
+273:Integer to English Words
