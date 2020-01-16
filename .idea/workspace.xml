@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b3a3606-f8ac-4f78-b3bb-93e6a68ab54c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/constants/constants.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578894022325</updated>
       <workItem from="1578894030807" duration="8590000" />
-      <workItem from="1579084366970" duration="11981000" />
+      <workItem from="1579084366970" duration="12986000" />
     </task>
     <servers />
   </component>
